@@ -1,0 +1,93 @@
+/* CSS style page for for photography page website*/
+
+#heading{
+  font-size: 80px;
+  text-align: center;
+  color:pink;
+  font-family: 'Sacramento', cursive;
+
+}
+
+#divider{
+  height: 10px;
+  background: url(http://ibrahimjabbari.com/english/images/hr-12.png) repeat-x 0 0;
+  border: 0;
+
+}
+
+#description{
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  font-size: 35px;
+
+}
+
+body{
+  background-color: white;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 7px;
+}
+
+.row {
+  display: flex;
+  padding-bottom: 10px;
+  padding-top: 200px;
+}
+
+#description{
+  color: black;
+}
+#flower1 {
+  transform: rotate(90deg);
+}
+
+#alley1 {
+  transform: rotate(270deg);
+}
+
+#virginiaBeach{
+  transform: rotate(90deg);
+}
+
+#virginia{
+  transform: rotate(90deg);
+}
+
+#flower2{
+  transform: rotate(90deg);
+}
+
+#alley2{
+  transform: rotate(270deg);
+}
+
+#alley3{
+  transform: rotate(90deg);
+}
+
+#flower3{
+  transform: rotate(90deg);
+}
+
+#rocks{
+  transform:rotate(90deg);
+}
+
+#pakistan{
+  transform: rotate(90deg);
+}
+
+#flower4{
+  transform: rotate(90deg);
+}
+
+#gib{
+  transform: rotate(90deg);
+}
+
+#minaret{
+  transform: rotate(90deg);
+}
